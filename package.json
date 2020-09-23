@@ -8,8 +8,8 @@
     "protractor": "./node_modules/protractor/built/cli.js",
     "webdriver-update": "webdriver-manager update --versions.chrome 85.0.4183.102 --ignore_ssl"
   },
-  "author": "Omni-BoB Team",
-  "license": "ISC",
+  "author": "hh Team",
+  "license": "hh",
   "dependencies": {
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
