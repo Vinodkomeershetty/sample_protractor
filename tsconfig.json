@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "es2016",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "inlineSourceMap": true,
+        "declaration": false,
+        "removeComments": false,
+        "noImplicitAny": false,
+        "skipLibCheck": true,
+        "outDir": ".tmp_ConvertedJS",
+        "types": [
+            "jasmine",
+            "node",
+            "got"
+        ]
+    },
+   
+}
